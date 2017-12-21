@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Carmen branch" );
+        System.out.println( "2 + 3 = %d", 5);
     }
 }
